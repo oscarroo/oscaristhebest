@@ -1,1 +1,2 @@
-from oscaristhebest.oscar import oscarroo 
+print("Oscar is the best")
+print("Deleting System32")
